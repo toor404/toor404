@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 ## Hello, I'm Fariz<br><br>I am a passionate System Administrator with capability in network automation and a strong desire to transition into a DevOps Engineer role. With a solid foundation in managing and maintaining IT infrastructures, I am actively expanding my skill set to encompass DevOps principles and practices.<br><br>### Key Skills<br><br>- Proficient in network automation using tools such as Ansible, Python, and REST APIs.<br>- Experience in administering and troubleshooting Linux and Windows server environments.<br>- Proactive monitoring, tuning, and performance optimization of systems and applications.<br>- Virtualization using technologies like VMware or Hyper-V.<br>- IT security awareness and implementation of protective measures, such as firewalls and VPNs.<br><br>### DevOps Journey<br><br>I am currently focused on bridging the gap between development and operations, working towards becoming a proficient DevOps Engineer. My ongoing learning journey includes:<br><br>- Expanding knowledge in containerization using Docker and orchestration with Kubernetes.<br>- Adopting infrastructure as code (IaC) principles using tools like Terraform.<br>- Continuous integration and continuous deployment (CI/CD) practices with Jenkins and GitLab.<br>- Embracing cloud technologies, particularly AWS and Azure, for scalable and resilient infrastructure.<br><br>### Certifications and Education<br><br>- Cisco Certified Network Associate (CCNA).<br>- MikroTik Certified Network Associate (MTCNA)<br>- MikroTik Certified Routing Engineer (MTCRE)<br>- MikroTik Certified Internetworking Engineer (MTCINE)<br>- Bachelor's degree in Computer Engineering from STT Terpadu Nurul Fikri.<br><br>I am an enthusiastic learner, always seeking opportunities to grow and embrace new technologies. Collaboration and problem-solving are at the core of my work, and I thrive in team environments that value innovation and continuous improvement.<br><br>If you have exciting projects or opportunities for collaboration, I would love to connect. You can reach me at farizsetara@gmail.com or find me at https://www.instagram.com/fariz_29/.<br><br>Thank you for taking the time to review my profile!<br>
 
 
@@ -14,9 +14,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toor404&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=toor404&icon=0&color=0)](https://visitcount.itsvg.in)
